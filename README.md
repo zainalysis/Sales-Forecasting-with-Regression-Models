@@ -44,7 +44,7 @@ Installation_
 
 **bash**
 **Copy code**
-git clone https://github.com/your-username/sales-forecasting.git
+git clone https://github.com/zainalysis/Sales-Forecasting-with-Regression-Models.git
 Install necessary libraries: This project utilizes Python libraries like pandas, numpy, matplotlib, scikit-learn, and others. Install them using the requirements file:
 
 **bash**
